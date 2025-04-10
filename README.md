@@ -1,2 +1,2 @@
-# NIKKE Efects Remover
+# NIKKE Effects Remover
 
